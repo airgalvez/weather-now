@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 
 /*
     ROUTES
-*/
+*/ 
 
 // GET //
 app.get("/", function (req, res){
